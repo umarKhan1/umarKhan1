@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umarkhan1&show_icons=true&locale=en" alt="umarkhan1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umarkhan1&" alt="umarkhan1" /></p>
+
