@@ -2,7 +2,7 @@
 <h3 align="center">I am a mobile app developer passionate about building seamless and user-friendly applications. My expertise lies in creating efficient, scalable, and intuitive mobile experiences using modern technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarkhan1&label=Profile%20views&color=0e75b6&style=flat" alt="umarkhan1" /> </p>
-
+![Muhammad Omar - Mobile App Developer](1.png)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarkhan1" alt="umarkhan1" /></a> </p>
 
 - 🔭 I’m currently working on [4everInlove(Dating App)](https://apps.apple.com/ae/app/4everinlove-perfect-match/id6468990355)
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [www.momarkhan.com](www.momarkhan.com)
 
-- 📝 I regularly write articles on [www.medium.com](www.medium.com)
+- 📝 I regularly write articles on [medium](www.medium.com)
 
 - 💬 Ask me about **Anything related to Flutter, real-time chat systems, API integrations, and mobile app performance optimization.**
 
-- 📫 How to reach me **muhammadomar29@outlook.com**
+- 📫 How to reach me **muhammadomar29@outlook.com** Or [linkedin](https://www.linkedin.com/in/muhammad-omar-0335/)
 
 - ⚡ Fun fact **I built my first Flutter app in 2019, and ever since, I’ve been passionate about creating seamless mobile experiences!**
 
