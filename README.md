@@ -1,5 +1,5 @@
 ![Muhammad Omar - Mobile App Developer](https://github.com/umarKhan1/umarKhan1/blob/d0e7a18b31133324f57005e11cc2ab95ce370820/1.png)
-<h1 align="center-right">About Me</h1>
+<h1 align="center-right">About Me 👨‍💻</h1>
 <h3 align="center-right">Muhammad Omar is a highly skilled mobile app developer with 6 years of experience specializing in Mobile Application Developmet. Passionate about building scalable, high-performance applications, he has successfully developed and deployed multiple mobile solutions across diverse industries, including dating apps, e-commerce, telehealth, and logistics.
 
 Omar has a strong expertise in real-time communication, WebSocket integration, API development, and mobile UI/UX optimization. His notable work includes leading the development of 4everInlove, a modern dating app, and Rafood, a multi-vendor delivery platform. He has also worked on integrating real-time tracking, secure payment gateways, and complex chat systems.
@@ -19,6 +19,8 @@ Omar is currently seeking opportunities to expand his expertise, collaborate on 
 - 🤝 I’m looking for help with **collaboration in Flutter development and real-time app systems**
 
 - 👨‍💻 All of my projects are available at [portfolio](www.momarkhan.com)
+
+- 👨‍💻 Hire me for freelance work at [Upwork](https://www.upwork.com/freelancers/~014a46579c1f2a7514) or [Fiverr](https://www.fiverr.com/muhmmadomar/make-attractive-native-app-for-you?utm_campaign=base_gig_show_share&utm_content=&utm_medium=shared&utm_source=mobile&utm_term=)
 
 - 📝 I regularly write articles on [medium](www.medium.com)
 
