@@ -28,9 +28,6 @@ Omar is currently seeking opportunities to expand his expertise, collaborate on 
 
 - ⚡ Fun fact **I built my first Flutter app in 2019, and ever since, I’ve been passionate about creating seamless mobile experiences!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
