@@ -18,15 +18,16 @@ Currently, I am focused on contributing to the **Open Source Flutter Community**
 
 ## 🛠️ Open Source Spotlight
 
-I actively develop and maintain several Flutter packages focused on Developer Experience (DX) and Architecture:
+I actively develop and maintain a suite of tools focused on **Developer Experience (DX)** and **Enterprise Architecture**.
 
-* 📦 **[aug_validateform](https://pub.dev/packages/aug_validateform)** – A Wasm-compatible, zero-boilerplate validation engine using **Dart Augmentations**.
-* 🛡️ **[clean_warden_flutter](https://pub.dev/packages/clean_warden_flutter)** – Automated architectural boundary enforcement for Clean Architecture projects.
-* ✨ **[simple_dialogs_flutter](https://pub.dev/packages/simple_dialogs_flutter)** – Context-less "Liquid Glass" dialog and toast system with physics-based animations.
-* ❄️ **[frostedify](https://pub.dev/packages/frostedify)** – A high-performance Glassmorphism UI library for Flutter.
-* 📧 **[chip_emails](https://pub.dev/packages/chip_emails)** – Intelligent email input widget with chip management and batch parsing.
+### 🏗️ Architectural Tooling
+* 📦 **[aug_validateform](https://pub.dev/packages/aug_validateform)** *The first reactive, Wasm-compatible validation engine.* By leveraging **Dart Augmentations**, it eliminates traditional code-gen boilerplate, making form logic natively integrated into the model layer.
+* 🛡️ **[clean_warden_flutter](https://pub.dev/packages/clean_warden_flutter)** *Automated boundary enforcement.* This tool prevents data flow leaks between layers (Data, Domain, Presentation), ensuring projects stay true to **Clean Architecture** principles even as teams grow.
 
----
+### 🎨 UI & UX Innovation
+* ✨ **[simple_dialogs_flutter](https://pub.dev/packages/simple_dialogs_flutter)** A context-less, physics-based "Liquid Glass" toast and dialog system. It allows developers to trigger premium UI feedback from anywhere in the app logic without needing a BuildContext.
+* ❄️ **[frostedify](https://pub.dev/packages/frostedify)** A high-performance Glassmorphism library. Optimized for performance on low-end devices while maintaining high-fidelity visual effects.
+* 📧 **[chip_emails](https://pub.dev/packages/chip_emails)** A specialized widget for high-volume email input. Features intelligent batch parsing and high-performance chip rendering for complex enterprise forms.
 
 ## 🤝 Collaboration & Work
 
